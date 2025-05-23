@@ -1,7 +1,5 @@
 # 酒馆+ClewdR一键脚本
 
-# 因上游更新，除安装功能外均不再维护（现在应该还能用），去用GUI吧。
-
 - [ClewdR](https://github.com/Xerxes-2/clewdr)
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern)
 
@@ -29,6 +27,10 @@ curl -O -C - https://ghfast.top/https://raw.githubusercontent.com/rzline/st-cr-i
 - 把这行命令扔你终端就行，够傻瓜了吧
 
 ## 更新日志
+
+### 25.5.22
+1. 增加一键开放公网功能
+2. 支持为vps用户一键配置systemd服务
 
 ### 25.4.24
 1. 对接上游配置文件修改，这应该是真的是最后一次更新了（）
